@@ -22,6 +22,7 @@ env:
   CONFIG_FILE: configs/lean/lean_stable.config
   DIY_SH: scripts/lean.sh
   KMODS_IN_FIRMWARE: true
+  UPLOAD_BIN_DIR: true
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
 
